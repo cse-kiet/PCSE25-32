@@ -1,10 +1,10 @@
 # Title of Project: Soil Nutrition Management using IoT and ML: AgriTech
 
 ## Team Members:
-1. Manav Gora
-2. Jhalak Upadhyay
-3. Shruti Choudhary
-
+1. Manav Gora (2100290100089) CSE-B
+2. Jhalak Upadhyay (2100290100074) CSE-B
+3. Shruti Choudhary (2100290210086) EN-B
+ 
 ## Steps for Execution:
 1. [STEP 1]
 2. [STEP 2]
