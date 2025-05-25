@@ -1,5 +1,7 @@
 # Title of Project: Soil Nutrition Management using IoT and ML: AgriTech
 
+![](https://github.com/cse-kiet/PCSE25-32/blob/main/img_.jpeg)
+
 ## Team Members:
 1. Manav Gora (2100290100089) CSE-B
 2. Jhalak Upadhyay (2100290100074) CSE-B
