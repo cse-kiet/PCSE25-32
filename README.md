@@ -1,4 +1,4 @@
-# Title of Project: Soil Nutrition Management using IoT and ML: AgriTech
+# Soil Nutrition Management using IoT and ML: AgriTech
 
 ![](https://github.com/cse-kiet/PCSE25-32/blob/main/img_.jpeg)
 
